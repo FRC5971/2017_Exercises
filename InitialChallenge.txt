@@ -1,0 +1,8 @@
+Initial Challenge
+
+Clone the repository to your system
+
+Create a branch with your name (Tom, Quade, Bob, etc.)
+Create a text file in your branch and include in that file any programming languages you have used in the past. (C#, C++, Java, etc.)
+Commit & Push your branch
+Create a Pull Request 
